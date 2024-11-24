@@ -1,0 +1,6 @@
+# Ignore virtual environment
+Lib/
+src/__pycache__/
+*.pyc
+*.pyo
+output/
